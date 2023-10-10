@@ -1,2 +1,2 @@
-# leaflet-react-direction
+# sandboxmap
 Created with CodeSandbox
